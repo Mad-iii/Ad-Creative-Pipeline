@@ -2,7 +2,7 @@
 
 AI generates, code checks, a human approves. A brief goes in; copy angles and ad variants come out in batches; every variant is checked against brand rules in plain code; a human approves, edits or rejects; only approved copy is exported.
 
-**Live demo:** _add URL after deploy_
+**Live demo:** https://ad-creative-pipeline-orpin.vercel.app
 
 ## Flow
 
